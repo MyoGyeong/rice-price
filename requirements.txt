@@ -72,7 +72,7 @@ PyMeeus
 Pympler==1.0.1
 pyparsing
 PyQt5==5.12.3
-PyQt5_sip==4.19.18
+PyQt5_sip==12.10.1
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent==0.18.0
